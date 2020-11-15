@@ -1,0 +1,1 @@
+C:\server\mariadb\bin\mysqld --install

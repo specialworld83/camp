@@ -1,0 +1,1 @@
+C:\server\mariadb\bin\mysql_install_db.exe C:\server\mariadb\data
