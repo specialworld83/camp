@@ -19,7 +19,8 @@ $cfg['Servers'][$i]['AllowNoPassword'] = true;
   
 /* End of servers configuration */
 $cfg['blowfish_secret'] = 'kjLGJ8g;Hj3mlHy+Gd~FE3mN{gIATs^1lX+T=KVYv{ubK*U0V';
-$cfg['DefaultLang'] = 'ru';
+$cfg['DefaultLang'] = 'en';
 $cfg['ServerDefault'] = 1;
 $cfg['UploadDir'] = '';
 $cfg['SaveDir'] = '';
+$cfg['ThemeDefault'] = 'metro';
